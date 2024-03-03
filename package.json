@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "natural": "^6.10.4",
+    "sentiment": "^5.0.2",
+    "vader": "^2.0.3"
+  }
+}
